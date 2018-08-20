@@ -6,24 +6,16 @@
         <run>
             <include name="long"/>
             <include name="double"/>
-
         </run>
     </groups>
     <listeners>
-
         <listener class-name="testng.Listeners.Listener"/>
     </listeners>
 
-    <test name="Sum Long test"  >
+    <test name="Sum test"  >
         <classes>
-            <class name = "testng.SumLongTest">
-            </class>
-        </classes>
-    </test>
-    <test name="Sum Double test" >
-        <classes>
-            <class name = "testng.SumDoubleTest">
-            </class>
+            <class name = "testng.SumLongTest"/>
+            <class name = "testng.SumDoubleTest"/>
         </classes>
     </test>
 

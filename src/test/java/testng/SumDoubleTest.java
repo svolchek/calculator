@@ -26,7 +26,7 @@ public class SumDoubleTest extends BaseTest {
 
 
 
-    @DataProvider(name = "dataForSum")
+    @DataProvider(name = "dataForSum", parallel = true)
     static Object[][] dataForSum()
     {
         return new Object[][]{

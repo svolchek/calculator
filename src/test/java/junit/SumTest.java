@@ -1,5 +1,10 @@
 package junit;
 
-public class SumTest extends BaseTest {
+import org.junit.Test;
 
+public class SumTest extends BaseTest {
+@Test
+    void sumTest(){
+    
+}
 }

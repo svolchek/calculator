@@ -9,6 +9,7 @@ public class SumLongTest extends BaseTest {
     private long expected;
 
     @Factory (dataProvider = "dataForSum")
+ //   @Factory(dataProviderClass = DivLongTest.class, dataProvider = "DivData")
     public SumLongTest(long var1, long var2, long expected) {
         a = var1;
         b = var2;
