@@ -1,51 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4effce87-d2ce-43cf-9e09-831d5f0398e9" name="Default" comment="new project">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/testng/Listeners/DListener.java" />
+    <list default="true" id="4effce87-d2ce-43cf-9e09-831d5f0398e9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/calculator.xml" afterPath="$PROJECT_DIR$/src/test/resources/calculator.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/delete/AnotherSimpleClass.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/delete/AnotherSimpleClassFactory.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/delete/SimpleClass.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/delete/TNG.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/delete/TestListener.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/BaseTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/BaseTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/CosTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/trigonometry/CosTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/CtgTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/trigonometry/CtgTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/DivDoubleTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/div/DivDoubleTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/DivLongTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/div/DivLongTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/DivZeroTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/div/DivZeroTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/IsNegativeTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/state/IsNegativeTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/IsPositiveTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/state/IsPositiveTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/MultTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/mult/MultTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/PowTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/pow/PowTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/SinTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/trigonometry/SinTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/SqrtTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/sqrt/SqrtTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/SubTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/sub/SubTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/SumDoubleTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/sum/SumDoubleTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/SumLongTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/sum/SumLongTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testng/TgTest.java" afterPath="$PROJECT_DIR$/src/test/java/testng/trigonometry/TgTest.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/calculator.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/delete/AnotherSimpleClass.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/delete/AnotherSimpleClassFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/delete/SimpleClass.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/delete/TNG.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/delete/TestListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/BaseTest.class" afterPath="$PROJECT_DIR$/target/test-classes/testng/BaseTest.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/CosTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/CtgTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/DivDoubleTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/DivLongTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/DivZeroTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/MultTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/PowTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/SinTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/SqrtTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/SubTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/SumDoubleTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/SumLongTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/TgTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testng/Listeners/DListener.java" afterPath="$PROJECT_DIR$/src/test/java/testng/listeners/DListener.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testng/Listeners/Listener.java" afterPath="$PROJECT_DIR$/src/test/java/testng/listeners/Listener.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/calculator.xml" afterPath="$PROJECT_DIR$/src/test/resources/calculator.xml" />
+      <change beforePath="$PROJECT_DIR$/task4.iml" afterPath="$PROJECT_DIR$/com.epam.tat.task4.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,8 +22,8 @@
       <file leaf-file-name="calculator.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/calculator.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-952">
-              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="408">
+              <caret line="99" column="20" lean-forward="false" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -82,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/testng/trigonometry/SinTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -187,7 +148,6 @@
         <option value="$PROJECT_DIR$/src/test/java/delete/AnotherSimpleClass.java" />
         <option value="$PROJECT_DIR$/src/resources/calculator.fxml" />
         <option value="$PROJECT_DIR$/src/resources/calculator.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/calculator.xml" />
         <option value="$PROJECT_DIR$/src/test/java/calculator/SumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/calculator/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/calculator/subTest.java" />
@@ -235,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/test/java/testng/pow/PowTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testng/trigonometry/SinTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testng/state/IsPositiveTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/calculator.xml" />
       </list>
     </option>
   </component>
@@ -302,43 +263,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="task4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="task4" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -423,6 +347,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="task4" />
+      <envs />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -712,8 +648,16 @@
       <workItem from="1534401896556" duration="24973000" />
       <workItem from="1534488380472" duration="20708000" />
       <workItem from="1534761199553" duration="6025000" />
-      <workItem from="1534862122683" duration="1574000" />
+      <workItem from="1534862122683" duration="1741000" />
     </task>
+    <task id="LOCAL-00001" summary="new project">
+      <created>1534863722256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534863722256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -749,7 +693,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65768000" />
+    <option name="totallyTimeSpent" value="65935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -1046,7 +990,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testng/Listeners/Listener.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng/listeners/Listener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="22" column="77" lean-forward="false" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
@@ -1062,18 +1006,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testng/Listeners/DListener.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng/listeners/DListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#241#242#0" expanded="false" />
+            <element signature="e#291#292#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#378#379#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
+            <element signature="e#493#494#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1083,7 +1027,7 @@
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1179,7 +1123,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/testng/trigonometry/SinTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1223,8 +1167,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-952">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="408">
+          <caret line="99" column="20" lean-forward="false" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
           <folding />
         </state>
       </provider>

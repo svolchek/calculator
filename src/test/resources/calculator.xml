@@ -9,8 +9,8 @@
         </run>
     </groups>
     <listeners>
-        <listener class-name="testng.Listeners.Listener"/>
-        <listener class-name="testng.Listeners.DListener"/>
+        <listener class-name="testng.listeners.Listener"/>
+        <listener class-name="testng.listeners.DListener"/>
     </listeners>
 
     <test name="Sum test"  >
