@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4effce87-d2ce-43cf-9e09-831d5f0398e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+    <list default="true" id="4effce87-d2ce-43cf-9e09-831d5f0398e9" name="Default" comment="new project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/com.epam.tat.task4.iml" afterPath="$PROJECT_DIR$/task4.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/IsNegativeTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/IsPositiveTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng/Listeners/Listener.class" afterPath="$PROJECT_DIR$/target/test-classes/testng/Listeners/Listener.class" />
+      <change beforePath="$PROJECT_DIR$/task4.iml" afterPath="$PROJECT_DIR$/task4.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,9 +23,52 @@
       <file leaf-file-name="calculator.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/calculator.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="1581">
               <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculator.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Desktop/HomeTask/4/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <marker date="1534336602781" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1534336602781" expanded="true" signature="187:194" ph="{}" />
+                <marker date="1534336602781" expanded="false" signature="231:242" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="255:261" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="304:315" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="328:334" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="371:382" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="395:401" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="444:455" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="468:474" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="512:523" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="536:542" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="586:597" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="622:628" ph=" }" />
+                <marker date="1534336602781" expanded="true" signature="666:823" ph="{...}" />
+                <marker date="1534336602781" expanded="false" signature="866:877" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="890:896" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="939:950" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="984:990" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="1024:1035" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="1065:1071" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="1103:1114" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="1147:1153" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="1186:1197" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="1217:1223" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="1256:1267" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="1286:1292" ph=" }" />
+                <marker date="1534336602781" expanded="false" signature="1325:1336" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="1355:1361" ph=" }" />
+                <marker date="1534336602781" expanded="true" signature="1403:1517" ph="{...}" />
+                <marker date="1534336602781" expanded="false" signature="1558:1569" ph=" { " />
+                <marker date="1534336602781" expanded="false" signature="1585:1591" ph=" }" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,31 +76,21 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            <state relative-caret-position="204">
+              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SinTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testng/trigonometry/SinTest.java">
+      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/junit/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="51">
+              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsNegativeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testng/state/IsNegativeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -69,6 +105,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="DivLongTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testng/div/DivLongTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DivZeroTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testng/div/DivZeroTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testng/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,41 +139,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="DivDoubleTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testng/div/DivDoubleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Sleep.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testng/Sleep.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TgTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testng/trigonometry/TgTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SqrtTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testng/sqrt/SqrtTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PowTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testng/pow/PowTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -265,6 +307,15 @@
               <item name="task4" type="b2602c69:ProjectViewProjectNode" />
               <item name="task4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="task4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="task4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="calculator-1.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -276,17 +327,23 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Siarhei_Volchak\IdeaProjects\task4\src\main\resources" />
+      <recent name="C:\Users\Siarhei_Volchak\IdeaProjects\task4\src\main\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="module4" />
       <recent name="junit" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Siarhei_Volchak\IdeaProjects\task4\src\main" />
       <recent name="C:\Users\Siarhei_Volchak\IdeaProjects\task4\src\test\resources" />
       <recent name="C:\Users\Siarhei_Volchak\IdeaProjects\task4\src\main\resources" />
       <recent name="C:\Users\Siarhei_Volchak\IdeaProjects\task4\src\test" />
@@ -646,7 +703,7 @@
       <workItem from="1534401896556" duration="24973000" />
       <workItem from="1534488380472" duration="20708000" />
       <workItem from="1534761199553" duration="6025000" />
-      <workItem from="1534862122683" duration="3410000" />
+      <workItem from="1534862122683" duration="4698000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1534863722256</created>
@@ -676,7 +733,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534865347037</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new project">
+      <created>1534865886704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534865886704</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -687,6 +751,9 @@
       <configuration name="C:/Users/Siarhei_Volchak/IdeaProjects/task4/src/test/resources/calculator.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="C__Users_Siarhei_Volchak_IdeaProjects_task4_src_test_resources_calculator_xml - 2018.08.21 at 18h 00m 27s.xml">
+      <configuration name="C:/Users/Siarhei_Volchak/IdeaProjects/task4/src/test/resources/calculator.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Siarhei_Volchak_IdeaProjects_task4_src_test_resources_calculator_xml - 2018.08.21 at 18h 41m 47s.xml">
       <configuration name="C:/Users/Siarhei_Volchak/IdeaProjects/task4/src/test/resources/calculator.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="SumDoubleTest - 2018.08.21 at 17h 48m 31s.xml">
@@ -701,9 +768,6 @@
     <history-entry file="SumLongTest - 2018.08.21 at 17h 56m 29s.xml">
       <configuration name="SumLongTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SumLongTest_lSumTest - 2018.08.21 at 17h 46m 35s.xml">
-      <configuration name="SumLongTest.lSumTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="SumLongTest_lSumTest - 2018.08.21 at 17h 47m 02s.xml">
       <configuration name="SumLongTest.lSumTest" configurationId="TestNG" />
     </history-entry>
@@ -712,7 +776,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67604000" />
+    <option name="totallyTimeSpent" value="68892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -723,10 +787,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40087622" sideWeight="0.52380955" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40087622" sideWeight="0.40952381" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40087622" sideWeight="0.5934524" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40087622" sideWeight="0.5904762" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -789,7 +853,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="34" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -943,13 +1009,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Desktop/HomeTask/4/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/volchek/ta/task4/calculator/DivLongTestFactory.java" />
     <entry file="jar://C:/Java/jdk1.8.0_161/src.zip!/java/lang/StrictMath.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -978,18 +1037,6 @@
         <state relative-caret-position="84">
           <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/junit/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#219#220#0" expanded="false" />
-            <element signature="e#264#265#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1067,30 +1114,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testng/div/DivDoubleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testng/div/DivLongTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testng/div/DivZeroTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testng/trigonometry/CosTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -1136,7 +1159,7 @@
         <state relative-caret-position="312">
           <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1173,21 +1196,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junit/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng/div/DivLongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng/div/DivZeroTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng/div/DivDoubleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/calculator.xml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="1581">
           <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/Desktop/HomeTask/4/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <marker date="1534336602781" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1534336602781" expanded="true" signature="187:194" ph="{}" />
+            <marker date="1534336602781" expanded="false" signature="231:242" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="255:261" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="304:315" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="328:334" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="371:382" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="395:401" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="444:455" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="468:474" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="512:523" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="536:542" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="586:597" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="622:628" ph=" }" />
+            <marker date="1534336602781" expanded="true" signature="666:823" ph="{...}" />
+            <marker date="1534336602781" expanded="false" signature="866:877" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="890:896" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="939:950" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="984:990" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="1024:1035" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="1065:1071" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="1103:1114" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="1147:1153" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="1186:1197" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="1217:1223" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="1256:1267" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="1286:1292" ph=" }" />
+            <marker date="1534336602781" expanded="false" signature="1325:1336" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="1355:1361" ph=" }" />
+            <marker date="1534336602781" expanded="true" signature="1403:1517" ph="{...}" />
+            <marker date="1534336602781" expanded="false" signature="1558:1569" ph=" { " />
+            <marker date="1534336602781" expanded="false" signature="1585:1591" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        <state relative-caret-position="204">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1249,7 +1353,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
