@@ -11,13 +11,12 @@ public class SumLongTest extends BaseTest {
 
 
     @Factory (dataProvider = "dataForSum")
- //   @Factory(dataProviderClass = DivLongTest.class, dataProvider = "DivData")
     public SumLongTest(long var1, long var2, long expected) {
         a = var1;
         b = var2;
         this.expected = expected;
     }
-    @Test(groups = "long", priority = 11)
+    @Test(testName = "Sum long test",groups = "long")
     void lSumTest(){
         sleep();
         long result = calculator.sum(a,b);

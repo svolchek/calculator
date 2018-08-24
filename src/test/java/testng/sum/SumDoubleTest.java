@@ -16,10 +16,9 @@ public class SumDoubleTest extends BaseTest {
         b = var2;
         this.expected = expected;
     }
-    @Test(groups = "double", priority = 12)
+    @Test(testName = "Sum double test",groups = "double")
     void dSumTest(){
         sleep();
-        final double DIFF = 0.001;
         double result = calculator.sum(a,b);
         assertEquals(result,expected,DIFF);
     }
