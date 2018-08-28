@@ -1,0 +1,140 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Calculator" verbose="1" parallel="methods" thread-count="4" preserve-order="true">
+
+    <groups>
+        <run>
+            <include name="long"/>
+            <include name="double"/>
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="testng.listeners.Listener"/>
+        <listener class-name="testng.listeners.DListener"/>
+    </listeners>
+
+    <test name="Sum test"  >
+        <groups>
+            <define name="all">
+                <include name="long"/>
+                <include name="double"/>
+            </define>
+
+            <run>
+                <include name="all"/>
+            </run>
+        </groups>
+        <classes>
+            <class name = "testng.sum.SumLongTest"/>
+            <class name = "testng.sum.SumDoubleTest"/>
+        </classes>
+    </test>
+
+    <test name="Sub test #1">
+        <parameter name="var1" value="2"/>
+        <parameter name="var2" value="3"/>
+        <parameter name="expected" value="-1"/>
+
+        <classes>
+            <class name = "testng.sub.SubTest"/>
+        </classes>
+    </test>
+    <test name="Sub test #2">
+        <parameter name="var1" value="3"/>
+        <parameter name="var2" value="0"/>
+        <parameter name="expected" value="3"/>
+
+        <classes>
+            <class name = "testng.sub.SubTest"/>
+        </classes>
+    </test>
+    <!-- test only for double values subtraction -->
+    <test name="Sub test #3">
+        <parameter name="var1" value="3.55"/>
+        <parameter name="var2" value="7.5"/>
+        <parameter name="expected" value="-3.95"/>
+        <classes>
+            <class name = "testng.sub.SubTest">
+                <methods>
+                    <include name="dSub.*"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Mult test" >
+        <classes>
+            <class name = "testng.mult.MultTest">
+                <methods>
+                    <include name=".*Test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Div Double Test" >
+        <classes>
+            <class name = "testng.div.DivDoubleTest">
+            </class>
+        </classes>
+    </test>
+    <test name="Div Long Test" >
+        <classes>
+            <class name = "testng.div.DivLongTest">
+            </class>
+        </classes>
+    </test>
+    <test name="Div Zero Test" >
+        <classes>
+            <class name = "testng.div.DivZeroTest">
+            </class>
+        </classes>
+    </test>
+    <test name="Pow Test" >
+        <classes>
+            <class name = "testng.pow.PowTest">
+            </class>
+        </classes>
+    </test>
+    <test name="Sqrt Test" >
+        <classes>
+            <class name = "testng.sqrt.SqrtTest">
+            </class>
+        </classes>
+    </test>
+    <test name="Tan Test" >
+        <classes>
+            <class name = "testng.trigonometry.TgTest">
+            </class>
+        </classes>
+    </test>
+    <test name="Ctg Test" >
+        <classes>
+            <class name = "testng.trigonometry.CtgTest">
+            </class>
+        </classes>
+    </test>
+    <test name="Cos Test" >
+        <classes>
+            <class name = "testng.trigonometry.CosTest">
+            </class>
+        </classes>
+    </test>
+    <test name="Sinus Test" >
+        <classes>
+            <class name = "testng.trigonometry.SinTest">
+            </class>
+        </classes>
+    </test>
+    <test name="IsPositive Test" >
+        <classes>
+            <class name = "testng.state.IsPositiveTest">
+            </class>
+        </classes>
+    </test>
+    <test name="IsNegative Test" >
+        <classes>
+            <class name = "testng.state.IsNegativeTest">
+            </class>
+        </classes>
+    </test>
+
+</suite>
