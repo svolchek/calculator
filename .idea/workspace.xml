@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4effce87-d2ce-43cf-9e09-831d5f0398e9" name="Default" comment="new project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -80,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -772,7 +771,7 @@
       <workItem from="1534935944693" duration="531000" />
       <workItem from="1535112233818" duration="6022000" />
       <workItem from="1535353873871" duration="2522000" />
-      <workItem from="1535446263900" duration="1237000" />
+      <workItem from="1535446263900" duration="2078000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1534863722256</created>
@@ -844,7 +843,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535121018808</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new project">
+      <created>1535455615081</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1535455615081</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -880,7 +886,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79955000" />
+    <option name="totallyTimeSpent" value="80796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="148" y="0" width="1400" height="1017" extended-state="0" />
@@ -1269,7 +1275,7 @@
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding />
         </state>
       </provider>
